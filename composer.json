@@ -1,0 +1,12 @@
+{
+  "name": "tonalliapp/project",
+  "description": "Proyecto de gestión de artefactos con Cloudinary",
+  "require": {
+    "cloudinary/cloudinary_php": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
